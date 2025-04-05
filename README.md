@@ -1,4 +1,4 @@
-# 🦎 모던 자바스크립트 Deep Dive 스터디
+# 🦎 Dash/client 모던 자바스크립트 Deep Dive 스터디
 <div align="center">
   <img src="https://github.com/user-attachments/assets/550c4d73-0771-4b6e-84b3-a4fad6a830ae" width="600"/>
 </div>
